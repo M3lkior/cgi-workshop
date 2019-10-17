@@ -4,3 +4,6 @@ Le texte qui suivra cette ligne sera considéré comme des modifications pour la
 tache A
 Le texte qui suivra cette ligne sera considéré comme des modifications pour la tâche B :
 tache B
+
+Cette ligne doit faire partie de la tâche A
+Une ligne pour la tâche A
